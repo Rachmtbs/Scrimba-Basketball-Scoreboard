@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-image: url("court.jpg");
+    background-size: cover;
+    
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 90px;
+    margin: 150px;
+    background: rgb(36, 6, 111);
+    max-width: 20%;
+    max-height: 50%;
+    border: 3px solid rgb(180, 161, 161);
+    border-radius: 15px;
+    align-content: center;
+    box-shadow: silver;
+}
+
+h3{
+    color: white;
+    font-size: bold;
+}
+
+h2{
+    color: white;
+    align-content: center;
+    
+}
+
+button{
+    border-radius:  5px;
+    color: yellowgreen;
+    background-color: black;
+    box-shadow: rgb(200, 183, 183);
+    border: silver;
+}
